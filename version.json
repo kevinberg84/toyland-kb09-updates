@@ -1,1 +1,8 @@
-{"product":"KB-09","version":"1.8.2","windows":"https://drive.google.com/drive/folders/18-S-iz4-5i8mkjPSaRtNXy4BTG2D1VBo?usp=sharing","mac":"https://drive.google.com/drive/folders/18-S-iz4-5i8mkjPSaRtNXy4BTG2D1VBo?usp=sharing","linux":"https://drive.google.com/drive/folders/18-S-iz4-5i8mkjPSaRtNXy4BTG2D1VBo?usp=sharing"}
+{
+  "product": "KB-09",
+  "version": "1.9.0",
+  "releasePage": "https://github.com/kevinberg84/toyland-kb09/releases/tag/v1.9.0",
+  "windows": "https://github.com/kevinberg84/toyland-kb09/releases/tag/v1.9.0",
+  "mac": "https://github.com/kevinberg84/toyland-kb09/releases/tag/v1.9.0",
+  "linux": "https://github.com/kevinberg84/toyland-kb09/releases/tag/v1.9.0"
+}
